@@ -13,6 +13,7 @@
 
 * 🐮 **[bubble-cowork](https://github.com/DylanDDeng/bubble-cowork)** - An AI-powered collaborative workspace that helps teams work smarter together. Features intelligent task management, real-time collaboration, and AI-assisted productivity tools.
 * 🎙️ **[mouth-high](https://github.com/DylanDDeng/mouth-high)** -  A voice-powered writing assistant that turns your speech into text instantly. Features hands-free recording modes, real-time audio visualization, customizable shortcuts, and local history management.
+* 📒 **[notely](https://github.com/DylanDDeng/notely)** - A markdown editor. 
 
 ### Where to find me 
 
