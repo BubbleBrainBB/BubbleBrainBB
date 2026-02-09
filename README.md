@@ -3,7 +3,7 @@
 * 🌱 I graduated from Boston University with a degree in Statistics and I'm now working as an NLP Algorithm Engineer.
 * 💻 Passionate about leveraging AI to build tools I love. 
 * 🚀 Always exploring the intersection of data science, NLP, and AI-powered solutions.
-* 😢 I am not good at programming.
+* 😢 I am Vibe Coding now.
 
 > Vibe Coding Now!
 
@@ -13,7 +13,7 @@
 
 * 🐮 **[bubble-cowork](https://github.com/DylanDDeng/bubble-cowork)** - An AI-powered collaborative workspace that helps teams work smarter together. Features intelligent task management, real-time collaboration, and AI-assisted productivity tools.
 * 🎙️ **[mouth-high](https://github.com/DylanDDeng/mouth-high)** -  A voice-powered writing assistant that turns your speech into text instantly. Features hands-free recording modes, real-time audio visualization, customizable shortcuts, and local history management.
-* 📒 **[notely](https://github.com/DylanDDeng/notely)** - A markdown editor. 
+* 📒 **[notely](https://github.com/DylanDDeng/notely)** - A local-first macOS Markdown workspace that keeps your notes in your own folders. Features live editing and preview, calendar journaling, Kanban task boards, tag filtering and global search, favorites/archive/trash management, autosave, and one-click PDF export
 
 ### Where to find me 
 
