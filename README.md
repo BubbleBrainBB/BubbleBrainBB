@@ -14,6 +14,7 @@
 * 🐮 **[bubble-cowork](https://github.com/DylanDDeng/bubble-cowork)** - An AI-powered collaborative workspace that helps teams work smarter together. Features intelligent task management, real-time collaboration, and AI-assisted productivity tools.
 * 🎙️ **[mouth-high](https://github.com/DylanDDeng/mouth-high)** -  A voice-powered writing assistant that turns your speech into text instantly. Features hands-free recording modes, real-time audio visualization, customizable shortcuts, and local history management.
 * 📒 **[notely](https://github.com/DylanDDeng/notely)** - A local-first macOS Markdown workspace that keeps your notes in your own folders. Features live editing and preview, calendar journaling, Kanban task boards, tag filtering and global search, favorites/archive/trash management, autosave, and one-click PDF export
+* 🏪 **[ShopBench](https://github.com/DylanDDeng/shopBench)** - A cash-first benchmark that evaluates how well AI agents can run a convenience store over 30 simulated days. Features 24 decision tools (pricing, purchasing, staffing, finance, promotions), cross-model leaderboard ranking, replayable runs, bilingual web views, and evidence-based insights into strategy quality and execution reliability.
 
 ### Where to find me 
 
