@@ -1,28 +1,17 @@
-### Hi there, I'm BubbleBrain 👋
+### Hi, I'm BubbleBrain 👋
 
-* 🌱 I graduated from Boston University with a degree in Statistics and I'm now working as an NLP Algorithm Engineer.
-* 💻 Passionate about leveraging AI to build tools I love. 
-* 🚀 Always exploring the intersection of data science, NLP, and AI-powered solutions.
-* 😢 I am Vibe Coding now.
+I just love building things.
 
-> Vibe Coding Now!
+### Projects
 
-### Projects 
+- **[Aegis](https://github.com/BubbleBrainBB/Aegis)** — A desktop workspace for coding agents: Claude Code, Codex, Kimi Code and more.
+- **[Bubble](https://github.com/BubbleBrainBB/bubble)** — A provider-agnostic local coding agent, with a desktop app and a terminal UI.
+- **[Notely](https://github.com/BubbleBrainBB/notely)** — A calm Markdown notes app for macOS. Your notes stay plain `.md` files.
+- **[Kura](https://github.com/BubbleBrainBB/Kura)** — A native macOS library for images, videos and design files, written in Swift.
+- **[Spectra](https://github.com/BubbleBrainBB/BB-Spectra-launch)** — A macOS menu-bar launcher: one hotkey to find apps, files and what's inside them.
+- **[BB-Video](https://github.com/BubbleBrainBB/BB-Video)** — An agent skill that makes videos in pure code, in 25 visual styles.
+- **[Bubble's Brain](https://github.com/BubbleBrainBB/bubbles-brain)** — My AI knowledge base: agent tutorials, primary sources and notes. [bubblenews.today](https://bubblenews.today)
 
-**2026** 
+### Contact
 
-* 🐮 **[Aegis](https://github.com/BubbleBrainBB/Aegis)** - An AI-powered collaborative workspace that helps teams work smarter together. Features intelligent task management, real-time collaboration, and AI-assisted productivity tools.
-* 📒 **[Notely](https://github.com/BubbleBrainBB/notely)** - A local-first macOS Markdown workspace that keeps your notes in your own folders. Features live editing and preview, calendar journaling, Kanban task boards, tag filtering and global search, favorites/archive/trash management, autosave, and one-click PDF export
-* 🏪 **[ShopBench](https://github.com/BubbleBrainBB/shopBench)** - A cash-first benchmark that evaluates how well AI agents can run a convenience store over 30 simulated days. Features 24 decision tools (pricing, purchasing, staffing, finance, promotions), cross-model leaderboard ranking, replayable runs, bilingual web views, and evidence-based insights into strategy quality and execution reliability.
-
-### Where to find me 
-
-* 📧 [![Gmail Badge](https://img.shields.io/badge/-chengshengdeng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dylanden@bu.edu)](mailto:chengshengdeng@gmail.com)
-* 🌐 [![website](https://img.shields.io/badge/https://bubblenews.today-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://bubblenews.today)
-
-### Hobbies
-
-* 🏀 Diehard Lakers fan—Kobe Bryant is my favorite player. R.I.P. Kobe 😢
-* 🎮 Video Games
-
-### Ask me about anything! I love to help! 😎
+[chengshengdeng@gmail.com](mailto:chengshengdeng@gmail.com)
